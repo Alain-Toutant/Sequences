@@ -22,5 +22,6 @@ Iterative Functions with Exponential progress O(logN) or O(LogN^2):
  - Iterators to stride through values, including infinite iterator
  - sum and count functions
  - selection/count of values within ranges
+ 
  NOTE: Optimizations only work when f0=1. I'm still working out the math for f0>1.
  
