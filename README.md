@@ -4,10 +4,12 @@ Fibonacci and other sequences
 # fibonaccy.py
 
 Iterative Functions O(n):
- - fibo(N)        Gets the Nth fibonacci number 
- - fiboN(V)       Counts fibonacci numbers <= V
- - sumFibo(N)     returns the sum of the first N fibonacci numbers
- - sumEvenFibo(N) returns the sum of the first N EVEN fibonacci numbers
+ - fibo(N)         Gets the Nth fibonacci number 
+ - fiboN(V)        Counts fibonacci numbers <= V
+ - sumFibo(N)      returns the sum of the first N fibonacci numbers
+ - sumEvenFibo(N)  returns the sum of the first N EVEN fibonacci numbers
+ - isFibo(a,b,c,d) Finds f0,f1 anf f(1),f(2) from 4 consecutive values of a sequence
+ - findFibo(a,b,c) Finds f0,f1 anf f(1),f(2) from 3 consecutive values of a sequence
 
 Iterative Functions with Exponential progress O(logN) or O(LogN^2):
  - fastFibo(N)        Gets the Nth fibonacci number
